@@ -1,0 +1,4 @@
+node_modules/
+/output/
+# newsroom scratch: local render drafts never ship with the entry
+*.draft.png
